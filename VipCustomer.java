@@ -14,7 +14,7 @@ public class VipCustomer {
     }
 
     public VipCustomer(String name, double creditLimit){
-        this(name, creditLimit, "jlain91@gmail.com");
+        this(name, creditLimit, "jolain91@gmail.com");
     }
 
     public String getName() {
